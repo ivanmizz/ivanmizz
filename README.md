@@ -1,5 +1,5 @@
 # 💫 About Me:
-Hello there! I love learning and creating cool stuff!
+Full stack developer
 
 
 ## 🌐 Socials:
